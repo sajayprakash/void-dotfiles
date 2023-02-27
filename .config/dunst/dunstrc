@@ -1,0 +1,26 @@
+[global]
+frame_color = "#89B4FA"
+separator_color= frame
+monitor = 0
+follow = keyboard
+width = 370
+height = 350
+offset = 0x19
+padding = 2
+horizontal_padding = 2
+transparency = 25
+font = Monospace 12
+format = "<b>%s</b>\n%b"
+
+[urgency_low]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_normal]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_critical]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+frame_color = "#FAB387"

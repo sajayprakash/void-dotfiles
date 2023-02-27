@@ -1,0 +1,7 @@
+[user]
+	name = Sajay Prakash 
+	email = sajayprakash7@protonmail.com 
+[advice]
+	statusHints = false
+[init]
+	defaultBranch = master
